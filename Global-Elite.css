@@ -1,0 +1,22 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 35px auto 60px 0;
+}
+
+.u-section-1 .u-line-1 {
+  height: 400px;
+  left: -28px;
+  top: 0;
+  transform-origin: center top 0px;
+  position: absolute;
+  width: 3px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-line-1 {
+    transform: rotate(1deg);
+  }
+}
