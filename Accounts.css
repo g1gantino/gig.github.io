@@ -1,31 +1,57 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 620px;
+  min-height: 709px;
 }
 
 .u-section-1 .u-image-1 {
   width: 570px;
   height: 570px;
-  margin: 25px auto 60px;
+  margin: 25px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  transition-duration: 0.5s;
+  margin: -235px auto 60px;
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 590px;
+    min-height: 679px;
   }
 
   .u-section-1 .u-image-1 {
     width: 540px;
     height: 540px;
   }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -205px;
+  }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 390px;
+    min-height: 479px;
   }
 
   .u-section-1 .u-image-1 {
     width: 340px;
     height: 340px;
   }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -5px;
+  }
+}
+
+.u-section-1 .u-text-1,
+.u-section-1 .u-text-1:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-text-1.u-text-1.u-text-1:hover {
+  color: #77aad9 !important;
+}
+
+.u-section-1 .u-text-1.u-text-1.u-text-1.hover {
+  color: #77aad9 !important;
 }

@@ -1,0 +1,56 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  font-size: 3rem;
+  margin: 24px auto 0;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 150px;
+  min-height: 16px;
+  width: 150px;
+  min-width: 16px;
+  transition-duration: 0.5s;
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
+  margin: 75px auto 0;
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(59, 89, 152) !important;
+  height: 100%;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  transition-duration: 0.5s;
+  margin: 30px auto 60px;
+}
+
+.u-section-1 .u-social-icons-1,
+.u-section-1 .u-social-icons-1:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-social-icons-1.u-social-icons-1.u-social-icons-1:hover {
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1) !important;
+}
+
+.u-section-1 .u-social-icons-1.u-social-icons-1.u-social-icons-1.hover {
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1) !important;
+}
+
+.u-section-1 .u-text-2,
+.u-section-1 .u-text-2:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-text-2.u-text-2.u-text-2:hover {
+  color: #77aad9 !important;
+}
+
+.u-section-1 .u-text-2.u-text-2.u-text-2.hover {
+  color: #77aad9 !important;
+}

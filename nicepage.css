@@ -35725,107 +35725,43 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: 64px 458px 60px auto;
+  margin: 65px auto 60px;
 }
 
 .u-header .u-nav-1 {
-  font-size: 1rem;
-  letter-spacing: 0px;
   background-image: none;
 }
 
 .u-header .u-nav-2 {
   box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
-  text-shadow: 0 2px 8px rgba(128,128,128,1);
-}
-
-.u-header .u-sidenav-1 {
-  width: 282px;
-  margin-right: 0;
-  margin-left: 0;
-  padding: 0;
-}
-
-.u-header .u-menu-close-1 {
-  width: 22px;
-  height: 28px;
-  margin: 20px 21px 0 auto;
 }
 
 .u-header .u-nav-3 {
   font-size: 1.25rem;
-  width: 208px;
-  height: 122px;
-  margin: 145px auto 0;
 }
 
 .u-header .u-nav-4 {
   box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
-  text-shadow: 0 2px 8px rgba(128,128,128,1);
 }
 @media (max-width: 1199px) {
-  .u-header .u-line-1 {
-    width: 3px;
-    margin-top: 0;
-  }
-
-  .u-header .u-text-1 {
-    margin-top: 65px;
-    margin-left: 20px;
-  }
-
   .u-header .u-line-2 {
     width: 940px;
-    margin-left: 100px;
-  }
-
-  .u-header .u-menu-1 {
-    width: auto;
-    margin-top: -4px;
-    margin-right: 221px;
+    margin-left: 0;
   }
 }
 @media (max-width: 991px) {
-  .u-header .u-text-1 {
-    margin-left: 130px;
-  }
-
   .u-header .u-line-2 {
     width: 720px;
-    margin-left: 210px;
-  }
-
-  .u-header .u-menu-1 {
-    margin-right: 177px;
   }
 }
 @media (max-width: 767px) {
-  .u-header .u-text-1 {
-    margin-left: 220px;
-  }
-
   .u-header .u-line-2 {
     width: 540px;
-    margin-left: 300px;
-  }
-
-  .u-header .u-menu-1 {
-    margin-right: 141px;
   }
 }
 @media (max-width: 575px) {
-  .u-header .u-text-1 {
-    margin-left: 320px;
-  }
-
   .u-header .u-line-2 {
     width: 340px;
-    margin-left: 400px;
-  }
-
-  .u-header .u-menu-1 {
-    margin-top: 15px;
-    margin-right: 101px;
   }
 }
  .u-footer {
@@ -35834,11 +35770,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-sheet-1 {
   min-height: 120px;
-}
-
-.u-footer .u-text-1 {
-  width: 417px;
-  margin: 49px auto;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
@@ -35858,10 +35789,6 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
     min-height: 36px;
-  }
-
-  .u-footer .u-text-1 {
-    width: 340px;
   }
 }
 
