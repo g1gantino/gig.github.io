@@ -5,12 +5,12 @@
 .u-section-1 .u-image-1 {
   width: 570px;
   height: 570px;
-  margin: 25px auto 0;
+  margin: -186px auto 0;
 }
 
 .u-section-1 .u-text-1 {
   transition-duration: 0.5s;
-  margin: -235px auto 60px;
+  margin: -244px auto 60px;
 }
 
 @media (max-width: 767px) {
@@ -24,7 +24,7 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: -205px;
+    margin-top: -214px;
   }
 }
 
@@ -39,7 +39,7 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: -5px;
+    margin-top: -14px;
   }
 }
 
